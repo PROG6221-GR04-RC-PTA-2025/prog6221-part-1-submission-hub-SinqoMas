@@ -70,13 +70,13 @@ namespace chatbot_st10203232
                 switch (topic)
                 {
                     case "password safety":
-                        Console.WriteLine("keep password safe");
+                        Console.WriteLine("keep password safe and dont share it with anyone, you never know what they doing with it");
                         break;
                     case "phishing":
-                        Console.WriteLine("dont be stupid");
+                        Console.WriteLine("beware of emails and sms that dont look legitimate, rather communicate with the company directly or know their contact details to make sure its actually them");
                         break;
                     case "safe browsing":
-                        Console.WriteLine("dont go into a weird website");
+                        Console.WriteLine("dont go into a weird website that have a lot of ads, they can infect your computer with viruses or hack you");
                         break;
                     case "exit":
                         Console.WriteLine("It's sad to see you go " + name + " but I hope you have learned a lot about internet safety . See you next time.");
